@@ -121,7 +121,7 @@ __How can a private network access internet?__
 
 ![image](../Networking/images/nw9.png)
 
-[Refer Here](https://www.geeksforgeeks.org/network-address-translation-nat/)
+## [Refer Here NAT](https://www.geeksforgeeks.org/network-address-translation-nat/)
 
 ## 10. Rules in networking
     
@@ -194,7 +194,10 @@ network B: 192.168.1.0/24 => 192.168.1.0 to 192.168.1.255
 ![image](../Networking/images/nw16.png)
 ![image](../Networking/images/nw17.png)
 
+## 14. __Edge Locaion__
 ![image](../Networking/images/nw18.png)
+
+### [Refer Here Edge Location](https://www.lastweekinaws.com/blog/what-is-an-edge-location-in-aws-a-simple-explanation/)
 
 
 
